@@ -53,3 +53,6 @@ git add . | git commit -m "text" | git pish
 ![ссылка на мой канал](logo.png)
 
 
+#### Изображение можно сделать ссылкой
+
+[![ссылка на мой канал](logo.png)](https://ksendzov.com)
